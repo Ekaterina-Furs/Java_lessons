@@ -1,4 +1,3 @@
-package Java_lessons.lesson_23_11_23;
 
 public class MyStack {
     private int[] arr = new int[10];
