@@ -108,6 +108,11 @@ public class Main {
                   System.out.println("Такого критерия нет.");
                   return filteredLaptops;
               }
+           if(rightCriteria) {
+           System.out.println(laptop);
+           }  
     }
   }
 }
+  
+
